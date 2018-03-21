@@ -15,11 +15,11 @@
 
 
 {% block navigation %}
-        <li><a href="index.html">Home</a></li>
-        <li><a href="download.html">Download</a></li>
-        <li><a href="docs/latest/index.html">Documentation</a></li>
-        <li><a href="documentation.html">Versions</a></li>
-        <li><a href="../governance.html">Governance</a></li>
-        <li><a href="code.html">Code</a></li>
-        <li><a href="../index.html">SciTools</a></li>
+        <li><a href="index.html">Cartopy Home</a></li>
+        <li><a href="download.html">Download Cartopy</a></li>
+        <li><a href="docs/latest/index.html">Cartopy Documentation</a></li>
+        <li><a href="documentation.html">Cartopy Versions</a></li>
+        <li><a href="code.html">Cartopy Code</a></li>
+        <li><a href="../index.html">SciTools Home</a></li>
+        <li><a href="../governance.html">SciTools Governance</a></li>
 {% endblock %}

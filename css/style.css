@@ -1,0 +1,20 @@
+body {
+  background-color: #f6f6f6;
+}
+.main {
+  background-color: #fff;
+  border: 1px solid #CCC;
+  padding: 0 40px 2px 40px;
+}
+.container {
+  width: 1100px;
+}
+.nav-header {
+  font-size: 17px;
+  text-transform: none;
+  line-height: 30px;
+}
+.sidebar-header-2 { margin-left: 10px; }
+.sidebar-header-3 { margin-left: 20px; }
+.sidebar-header-4 { margin-left: 30px; }
+.sidebar-header-5 { margin-left: 40px; }
